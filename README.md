@@ -5,7 +5,7 @@
 
 Клон популярной игры Flappy Bird с самолетом вместо птицы, написанный на Python с использованием Pygame.
 
-![Gameplay Screenshot]([https://github.com/menzura1/Flappy-Plane/blob/main/Screenshot_1.jpg])
+![Screenshot](https://github.com/menzura1/Flappy-Plane/blob/main/Screenshot_1.jpg)
 
 ## Особенности ✨
 
