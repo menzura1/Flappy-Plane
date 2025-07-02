@@ -5,7 +5,7 @@
 
 Клон популярной игры Flappy Bird с самолетом вместо птицы, написанный на Python с использованием Pygame.
 
-![Gameplay Screenshot](https://yapx.ru/album/ZuSCB)
+![Gameplay Screenshot]([URL=https://fastpic.org/view/125/2025/0702/c50014ea282731622a6ae6c15661969d.png.html][IMG]https://i125.fastpic.org/thumb/2025/0702/9d/c50014ea282731622a6ae6c15661969d.jpeg[/IMG][/URL])
 
 ## Особенности ✨
 
